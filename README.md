@@ -1,6 +1,5 @@
 # Boarding.lk - Real-Time Student Accommodation Marketplace 🏠🇱🇰
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b5c4613b-d533-40a2-9783-6e3d233e2101/deploy-status)](https://boardinglk.netlify.app)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
 ![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-green)
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-blue)
@@ -8,7 +7,7 @@
 
 > 🔒 **Note:** This repository is a **Technical Showcase**. The full source code is private to protect intellectual property as this is a live commercial product. This documentation demonstrates the architecture, design patterns, and technical challenges solved.
 
-**🔗 Live Demo:** [https://boarding-lk.netlify.app](https://boardinglk.netlify.app)
+**🔗 Live Demo:** [https://boardinglk.netlify.app](https://boardinglk.netlify.app)
 
 ---
 
@@ -33,9 +32,8 @@ There was no central, verified, and real-time platform to connect students with 
 ## 🏗️ Technical Architecture
 
 I utilized the **T3 Stack philosophy** (Typescript/JS, Tailwind, Serverless) to prioritize type safety, development speed, and scalability without infrastructure bloat.
+<img width="2816" height="1536" alt="System_Archi" src="https://github.com/user-attachments/assets/7185e1a7-5202-46e2-84b5-c2dcd7b378c9" />
 
-![Architecture Diagram](https://via.placeholder.com/800x400?text=Next.js+Frontend+%3E+Supabase+Auth+%3E+PostgreSQL+DB+%3E+Realtime+Websockets)
-*(Conceptual Data Flow: Client ↔ Next.js App Router ↔ Supabase (Auth/DB/Realtime) ↔ Storage)*
 
 ### ⚡ Tech Stack
 * **Frontend:** [Next.js 14](https://nextjs.org/) (App Router) for Server-Side Rendering (SSR) and SEO.
@@ -103,4 +101,4 @@ Instead of relying solely on API middleware, security is enforced at the databas
 
 I built Boarding.lk to solve a real-world problem using modern web technologies. I am open to Full-Stack Developer opportunities.
 * **Email:** ietampawala2002@gmail.com
-* **LinkedIn:** [[isuru-sasanga-etampawala]](https://www.linkedin.com/in/isuru-sasanga-etampawala/)
+* **LinkedIn:** [https://www.linkedin.com/in/isuru-sasanga-etampawala](https://www.linkedin.com/in/isuru-sasanga-etampawala/)
