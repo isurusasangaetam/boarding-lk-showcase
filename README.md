@@ -99,6 +99,5 @@ Instead of relying solely on API middleware, security is enforced at the databas
 
 ### 📬 Contact
 
-I built Boarding.lk to solve a real-world problem using modern web technologies. I am open to Full-Stack Developer opportunities.
 * **Email:** ietampawala2002@gmail.com
 * **LinkedIn:** [https://www.linkedin.com/in/isuru-sasanga-etampawala](https://www.linkedin.com/in/isuru-sasanga-etampawala/)
