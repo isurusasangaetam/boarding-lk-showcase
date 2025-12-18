@@ -80,15 +80,6 @@ Instead of relying solely on API middleware, security is enforced at the databas
 
 ---
 
-## 🚀 Deployment & CI/CD
-
-* **Host:** [Netlify](https://www.netlify.com/) (Free Tier).
-* **Pipeline:** Connected to GitHub. Every push to `main` triggers an automatic build and deploy.
-* **Environment:** Sensitive keys (`SUPABASE_KEY`, `RESEND_API`) are injected at build time via Netlify Environment Variables.
-* **Image Optimization:** Configured `next.config.js` to allow remote patterns from Supabase Storage and Google Auth domains.
-
----
-
 ## 🔮 Future Improvements
 
 * **AI Recommendations:** Integrating vector embeddings to suggest rooms based on "vibe" and amenities.
